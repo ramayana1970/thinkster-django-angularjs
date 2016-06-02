@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # thinkster-django-angular-boilerplate
 
 ## Installation
@@ -17,3 +18,7 @@
 * `$ python manage.py migrate`
 * `$ python manage.py runserver`
 
+=======
+# thinkster-django-angularjs
+Repositório de desenvolvimento de tutorial da Thinkster
+>>>>>>> c8885036768269cbaeb8165073ad63b63f35fcd1
